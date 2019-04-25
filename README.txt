@@ -1,0 +1,1 @@
+This project aims at turning a series of basic commands into a short Bash script.
